@@ -1,3 +1,3 @@
 # AndroidNews
 Site made with HTML5 and CSS3 
-<a href="https://github.com/FranciscoCerqueira412/AndroidNews/index.html">Android site</a>
+<a href="https://franciscocerqueira412.github.io/AndroidNews">Android site</a>
